@@ -6,3 +6,16 @@ chroma_db/
 __pycache__/
 .DS_Store
 eval/judge_log.jsonl
+add_final_questions.py
+check_chunks.py
+check_threshold.py
+diag.py
+diag_hyde.py
+diag_rerank.py
+find_scenes.py
+fix_relevant.py
+gen_questions.py
+miss_report.py
+scene_copies.py
+scratch.py
+test_key.py

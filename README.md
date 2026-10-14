@@ -93,7 +93,7 @@ With 30 answerable questions, one question is worth 0.033, so differences of one
 
 ## Connection to the thesis
 
-GeMoSC(is an extention of my supervisor's work) was built for my MSc thesis (University of Turin, in progress) , which studies how the dialogue of film characters varies with generation, gender and genre using corpus-wide linguistic features.
+My MSc thesis (University of Turin, in progress) extends GeMoSC (Balestrucci et al., 2025) to an earlier decade and studies how the dialogue of film characters varies with generation, gender and genre using corpus-wide linguistic features.
 
 The two approaches answer different kinds of questions. Semantic retrieval matches _what_ characters talk about, so this assistant can find and quote scenes, but it cannot measure _how_ a group talks. Questions such as "Do Millennials use more slang than Boomers?" need statistics over the whole corpus, not five excerpts. A planned next step is an agent that chooses between this retrieval tool and a tool that looks up corpus statistics.
 

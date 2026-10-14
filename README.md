@@ -1,6 +1,6 @@
 # Ask GeMoSC
 
-A bilingual (English/Italian) question-answering assistant over **GeMoSC**, the Generational Movie Script Corpus I built for my MSc thesis at the University of Turin. You ask how characters talk or behave, and it answers from the film scripts, cites every claim to a specific scene, and refuses when the corpus has no evidence.
+A bilingual (English/Italian) question-answering assistant over GeMoSC, the Generational Movie Script Corpus. GeMoSC was created by Pier Felice Balestrucci et al. ([Findings of EMNLP 2025)](https://aclanthology.org/2025.findings-emnlp.5/) for films from 2018–2021; for my MSc thesis at the University of Turin I extended it to films from 2008–2017, and this assistant indexes that extension. You ask how characters talk or behave, and it answers from the film scripts, cites every claim to a specific scene, and refuses when the corpus has no evidence.
 
 The corpus covers films released between 2008 and 2017, with each character annotated for gender and generation (derived from the actor's year of birth). The assistant indexes **110,889 scene excerpts from 674 films**.
 
